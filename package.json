@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nairda77/goit-js-work-08.git"
+    "url": "git+https://github.com/Nairda77/goit-js-work-08"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Adrian Gugu <ady159753a@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nairda77/goit-js-work-08/issues"
+    "url": "https://github.com/Nairda77/goit-js-work-08"
   },
   "dependencies": {
     "@vimeo/player": "^2.23.0",
@@ -29,6 +29,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
